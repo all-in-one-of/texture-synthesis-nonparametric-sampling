@@ -1,4 +1,5 @@
 # Texture Synthesis 
+
 Based on "Texture Synthesis with Non-Parametric Sampling" paper by Alexei A. Efros and Thomas K. Leung
 
 ![](TextureSynthesis_Example.gif)
